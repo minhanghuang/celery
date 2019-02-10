@@ -1,0 +1,4 @@
+后台启动worker, sh celery_worker.sh start
+后台关闭worker, sh celery_worker.sh stop
+后台启动beat, sh celery_beat.sh start
+后台关闭beat, sh celery_beat.sh stop
